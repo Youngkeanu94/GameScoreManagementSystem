@@ -1,0 +1,8 @@
+C:\Users\hunte\source\repos\IT391_Unit1_Assignment\bin\Debug\IT391_Unit1_Assignment.exe.config
+C:\Users\hunte\source\repos\IT391_Unit1_Assignment\bin\Debug\IT391_Unit1_Assignment.exe
+C:\Users\hunte\source\repos\IT391_Unit1_Assignment\bin\Debug\IT391_Unit1_Assignment.pdb
+C:\Users\hunte\source\repos\IT391_Unit1_Assignment\obj\Debug\IT391_Unit1_Assignment.csproj.AssemblyReference.cache
+C:\Users\hunte\source\repos\IT391_Unit1_Assignment\obj\Debug\IT391_Unit1_Assignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\hunte\source\repos\IT391_Unit1_Assignment\obj\Debug\IT391_Unit1_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\hunte\source\repos\IT391_Unit1_Assignment\obj\Debug\IT391_Unit1_Assignment.exe
+C:\Users\hunte\source\repos\IT391_Unit1_Assignment\obj\Debug\IT391_Unit1_Assignment.pdb
